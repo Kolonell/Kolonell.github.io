@@ -266,13 +266,13 @@ footer img   {
     
 /* FEATURE BOXES   */
     .service-box {
-        width: 90%;
+        width: 80%;
         display: block;
     }
     
 /* TESTIMONIAL BOXES   */
     .testimonial-box {
-        width: 90%;
+        width: 80%;
         display: block;
 }
 }
